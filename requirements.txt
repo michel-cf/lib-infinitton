@@ -1,0 +1,3 @@
+hid==1.0.4
+Pillow==7.1.1
+PyEventEmitter==1.0.5
